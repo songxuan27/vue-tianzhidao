@@ -1,2 +1,1 @@
-# vue-tianzhidao
-weather search
+用Vue写的一个天气查询系统，用的axios做接口调用
